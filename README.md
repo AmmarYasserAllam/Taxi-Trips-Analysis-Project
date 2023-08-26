@@ -13,10 +13,11 @@ The dataset includes information about various attributes of taxi trips, such as
 ## Objectives
 
 The main objectives of this analysis are to:
+- Presented compelling insights that drive informed decision-making.
+- Provide actionable insights based on the analysis.
+- Investigate relationships between trip distance and other variables.
 - Explore and visualize trip patterns and trends.
 - Analyze payment types and their distribution.
-- Investigate relationships between trip distance and other variables.
-- Provide actionable insights based on the analysis.
 
 
 ## Contributing
